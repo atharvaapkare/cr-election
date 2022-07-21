@@ -76,5 +76,10 @@ networks:
 wallets:
   from_key: ${PRIVATE_KEY}
   from_mnemonic: ${MNEMONIC}
-
+settings:
+  gas_limit: "2074044"
   # could also do from_mnemonic, and you'd have to change the accounts.add to accounts.from_mnemonic
+cand:
+    first: "0xE1DeeaF89827532b788C2Ee61b9137D4d0Ce4A06"
+    second: "0xE229ca0f0a3332c5164b6461C41Fd7c1AB1277d1"
+    
