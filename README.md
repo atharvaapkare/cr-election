@@ -14,6 +14,7 @@ This allows students to vote for their class representative .
   
 
   </p>
+
 ### TIP  🌠- FOR NOW THIS WORKS ONLY ON LOCAL BLOCKCHAIN AND IS NOT YET DEPLOYED TO TEST NET.(P.S. figuring out how to do it).
 
 
