@@ -7,15 +7,14 @@ This allows students to vote for their class representative .
 
 ## ⚙️Tech Stack
   <p align="center">
-  <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
-  <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon" />
-
-  <img width="75px" src="https://github.com/ethereum/solidity/blob/develop/docs/logo.svg"alt="SOLIDITY Icon" />
-  <img width="75px" src="https://github.com/wanderingstan/ganache/blob/master/Logo.svg" alt="GANACHE Icon" />
+  <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon"  height="40" style="vertical-align:top; margin:4px">
+  <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon"  height="40" style="vertical-align:top; margin:4px">
+  <img width="75px" src="https://github.com/ethereum/solidity/blob/develop/docs/logo.svg" alt="SOLIDITY Icon"  height="40" style="vertical-align:top; margin:4px">
+  <img width="75px" src="https://github.com/wanderingstan/ganache/blob/master/Logo.svg" alt="GANACHE Icon"  height="40" style="vertical-align:top; margin:4px">
   
 
   </p>
-**TIP**  🌠- FOR NOW THIS WORKS ONLY ON LOCAL BLOCKCHAIN AND IS NOT YET DEPLOYED TO TEST NET.(P.S. figuring out how to do it).
+### TIP  🌠- FOR NOW THIS WORKS ONLY ON LOCAL BLOCKCHAIN AND IS NOT YET DEPLOYED TO TEST NET.(P.S. figuring out how to do it).
 
 
 ##  🛠️ Required
@@ -56,7 +55,8 @@ And add the following parameters.
 > npm run dev
 ```
 (see http://localhost:3000 if not taken there automatically.)
-6. We are ready to cast our votes and choose our representative.
+
+6. Now we can vote and choose our representatives.
 
 
 
