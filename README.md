@@ -29,9 +29,9 @@ This allows students to vote for their class representative .
 * In your metamask wallet import a account , and paste this key. (NOW you can interact with this account.)
 * Now we need to set up localhost as our developent network.
 * In networks setting of metamask, add a network.
-And add the following parameters.
-        * NEW RPC URL==> on your ganache UI you can see RPC SERVER, That's it !!
-        *CHAIN ID==> 1337
+* And add the following parameters.
+      * NEW RPC URL==> on your ganache UI you can see RPC SERVER, That's it !!
+      * CHAIN ID==> 1337
 
 * ALL SET ....!!!!
 * Start your cmd and type the following commands.
@@ -65,7 +65,7 @@ And add the following parameters.
 1. Deploying to a testnet
    Thinking of deploying it to rinkeby testnet, I am learning this right now, any sugggestions are appreciated. [EMAIL](atharvaapkare@gmail.com)
 2. Verification of voters
-   We now have a functionality that a account can vote only once , but what if the user gets multiple account and votes. So we have to give access to only selcted mail ids or accounts realted to it.
+   We now have a functionality that a account can vote only once , but what if the user gets multiple account and votes. So we have to give access to only selcted mail ids or accounts related to it.
 
 3. Maximum of 4 Participants
 
